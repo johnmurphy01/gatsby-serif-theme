@@ -1,17 +1,17 @@
 [
   {
     "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
+    "description": "Have something you want Gateway Apps to build for you?  Consultations are always free!",
     "image": "/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "All-Star Developers",
+    "description": "Have world-class developers work on your project",
     "image": "/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Incredible Customer Support",
+    "description": "Bug fixes are free and you'll deal directly with the developers, not a foreign help-desk.",
     "image": "/features/noun_3d modeling_1885342.svg"
   }
 ]

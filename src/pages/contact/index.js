@@ -26,31 +26,31 @@ const Contact = props => (
             <tbody>
               <tr>
                 <td className="day font-weight-bold">Monday</td>
-                <td className="opens">8:30am</td>
+                <td className="opens">7:00am</td>
                 <td>-</td>
                 <td className="closes">5:00pm</td>
               </tr>
               <tr>
                 <td className="day font-weight-bold">Tuesday</td>
-                <td className="opens">8:30am</td>
+                <td className="opens">7:00am</td>
                 <td>-</td>
                 <td className="closes">5:00pm</td>
               </tr>
               <tr>
                 <td className="day font-weight-bold">Wednesday</td>
-                <td className="opens">8:30am</td>
+                <td className="opens">7:00am</td>
                 <td>-</td>
                 <td className="closes">5:00pm</td>
               </tr>
               <tr>
                 <td className="day font-weight-bold">Thursday</td>
-                <td className="opens">8:30am</td>
+                <td className="opens">7:00am</td>
                 <td>-</td>
                 <td className="closes">5:00pm</td>
               </tr>
               <tr>
                 <td className="day font-weight-bold">Friday</td>
-                <td className="opens">8:30am</td>
+                <td className="opens">7:00am</td>
                 <td>-</td>
                 <td className="closes">5:00pm</td>
               </tr>

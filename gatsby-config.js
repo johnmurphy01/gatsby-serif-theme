@@ -1,10 +1,10 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Serif',
-    description: 'my theme',
+    title: 'Gateway Apps',
+    description: '<software development />',
     contact: {
-      phone: 'XXX XXX XXX',
-      email: 'zerostaticthemes@gmail.com',
+      phone: '870.935.6411',
+      email: 'info@gatewayapps.com',
     },
     menuLinks: [
       {
@@ -15,10 +15,10 @@ module.exports = {
         name: 'Team',
         link: '/team',
       },
-      {
-        name: 'Testimonials',
-        link: '/testimonials',
-      },
+      // {
+      //   name: 'Testimonials',
+      //   link: '/testimonials',
+      // },
       {
         name: 'Contact',
         link: '/contact',

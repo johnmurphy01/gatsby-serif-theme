@@ -6,7 +6,7 @@ import Layout from '../../layouts/index';
 const Services = (props) => {
   const services = props.data.allMarkdownRemark.edges;
   return (
-    <Layout bodyClass="page-services">
+    <Layout bodyClass="page-services"> 
       <SEO title="Services" />
       <div className="intro">
         <div className="container">

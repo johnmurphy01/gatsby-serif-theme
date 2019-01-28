@@ -17,12 +17,13 @@ const Home = (props) => {
           content="Small Business Theme. Multiple content types using Markdown and JSON sources. Responsive design and SCSS. This is a beautiful and artfully designed starting theme."
         />
       </Helmet>
-      <div className="intro pb-4">
+
+      <div className="intro pb-5" >
         <div className="container">
-          <h1>Serif - Gatsby Small Business Theme.</h1>
+          
+          <h1>Gateway Apps</h1>
           <p>
-            Multiple content types using Markdown and JSON sources. Responsive design and SCSS. This
-            is a beautiful and artfully designed starting theme.
+            Custom software and web-site development
           </p>
         </div>
       </div>
@@ -48,11 +49,7 @@ const Home = (props) => {
               </div>
             </div>
           ))}
-          <div className="col-12 text-center">
-            <Link className="button button-primary mt-2" to="/services">
-              View All Services
-            </Link>
-          </div>
+          
         </div>
       </div>
 
